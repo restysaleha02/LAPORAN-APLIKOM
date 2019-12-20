@@ -1,0 +1,76 @@
+body{
+    margin: auto;
+    padding: 0;
+    background-image:url("b.jpg") ;
+}
+.judul{
+    text-align: center;
+    margin: 10px 10px;
+    padding: 20px 0;
+    
+
+}
+
+.service-container {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.service-body {
+    justify-content: center;
+    display: flex;
+}
+
+.service-box {
+    font-size: 14px;
+    line-height: 1.5;
+    width: 550px;
+    padding: 14px 20px;
+    margin: 0 10px;
+    text-align: left;
+    background-color: palevioletred;
+    color: white;
+}
+
+.title {
+    font-size: 20px !important;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+.btn {
+    font-size: 14px !important;
+    border: none;
+    background: transparent;
+    color: white;
+    border: solid 1px white;
+    padding: 5px 8px;
+    border-radius: 3px;
+    font-family: 'Alata', sans-serif;
+    cursor: pointer;
+}
+
+.footer-container {
+    width: 100%;
+    background-color: #e8e5e0;
+}
+
+.footer-body {
+    height: 48px;
+    padding: 35px;
+    margin: auto;
+    width: 80%;
+}
+
+
+/* FOOTER */
+.Footer{
+    width: 90%;
+    margin: 10px 30px;
+    /* background-image: url(baru.jpg); */
+    text-align: center;
+    padding: 7px 35px;
+    font-size: 20px;
+}
+
